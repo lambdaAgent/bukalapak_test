@@ -9,7 +9,7 @@ untuk technical interview dibutuhkan local server supaya bisa mendapat json file
 4. buka browser dengan url: `http://localhost:8000/`
 
 ## keterangan folder:
-`
+```
 	/client 
 		/build      # berisi bundle.js
 		/public     # index.html dan image 
@@ -17,4 +17,4 @@ untuk technical interview dibutuhkan local server supaya bisa mendapat json file
 	/server
 		/server.js  # local server
 		/json       # json files
-`
+```
