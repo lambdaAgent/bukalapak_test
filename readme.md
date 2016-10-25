@@ -5,9 +5,8 @@ untuk technical interview dibutuhkan local server supaya bisa mendapat json file
 ## How to Run:
 1. `git clone`
 2. `$ cd server`
-3. `$ npm install`
-4. `$ node server.js`
-5. buka browser dengan url: `http://localhost:8000/`
+3. `$ node server.js`
+4. buka browser dengan url: `http://localhost:8000/`
 
 ## keterangan folder:
 `
